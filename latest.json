@@ -1,14 +1,13 @@
 {
   "stable": {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.0.zip",
-    "sha256": "cf8205b1fc8948495b8c13b5684092c9968ced290e88b16788292b5a3ebca8f3",
-    "size": 372735,
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.1.zip",
+    "sha256": "27381ced932cb273899fec3bb02572732fb726388f36835d095fad53c5278dee",
+    "size": 372740,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Pirmā versija GitHub: programma pati pārbauda un uzstāda atjauninājumus (poga “Atjauninājumi…” augšā).",
-        "Mapju koks, vilkšana ar peli, “Atcelt visu”, tukšo mapju izmešana, vienāda satura mapju apvienošana."
+        "Poga “Atjauninājumi…” tagad redzama loga augšā labajā pusē (iepriekš to aizsedza ķeksītis)."
       ]
     }
   }
