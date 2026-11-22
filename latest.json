@@ -1,14 +1,13 @@
 {
   "stable": {
-    "version": "1.0.6",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.6.zip",
-    "sha256": "5bf51fae5a9b2f375562b018dd6bf4d673f0ebc3bb2512b3c4c464abce6eb7f4",
-    "size": 421476,
+    "version": "1.0.7",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.7.zip",
+    "sha256": "5e0e0b98f3a0c6f98b12b29daaf2cc337ca4047996fbb8fb3cd29c23b014ea61",
+    "size": 422190,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Labais klikšķis uz apakšmapes → “Pārcelt saturu augšējā mapē (apakšmapi likvidēt)”: faili pāriet augšējā mapē, dublikāti uz _DUBLIKATI, tukšā apakšmape tiek izdzēsta. Atsaucams.",
-        "Apakšmapju darbības (pārcelt, izņemt) strādā arī kārtībā esošām mapēm (filtrs “Visas mapes”)."
+        "Labais klikšķis uz faila rindas: “✔ Paturēt visas versijas”, “Atgriezt programmas ieteikumu”, “✖ Nepaturēt nevienu”, “Pārsaukt…” (katrai paliekošajai versijai) un “Atvērt failu”."
       ]
     }
   }
