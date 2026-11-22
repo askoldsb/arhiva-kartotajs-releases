@@ -1,14 +1,14 @@
 {
   "stable": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.4.zip",
-    "sha256": "07a2131a2a2585d43ff7e2e5f02332716424530ccb6a19f300022c4604155999",
-    "size": 418747,
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.5.zip",
+    "sha256": "81a2f9ac2a6964229c1ec377696355eda192555e60f988ba1e401632b3e3828f",
+    "size": 420662,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Labots: ja kāds fails ir atvērts (Explorer, attēlu skatītājs, priekšskatījums), mape vairs netiek kopēta un pa pusei dzēsta – programma pagaida, mēģina vēlreiz un, ja nesanāk, neko nemaina un pasaka, kas jādara.",
-        "Priekšskatījums vairs netur bilžu failus atvērtus."
+        "Mapju kokā var atlasīt vairākas mapes ar Ctrl+klikšķi un ar labo klikšķi → “Apvienot atlasītās vienā mapē…” apvienot to saturu (piem., Rīga Altona + Rīga Altonas muiža).",
+        "Darbojas arī ar kārtībā esošām mapēm (filtrs “Visas mapes”); apvienošana saglabājas pēc jaunas skenēšanas."
       ]
     }
   }
