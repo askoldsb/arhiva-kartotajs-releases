@@ -1,13 +1,14 @@
 {
   "stable": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.1.zip",
-    "sha256": "27381ced932cb273899fec3bb02572732fb726388f36835d095fad53c5278dee",
-    "size": 372740,
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.2.zip",
+    "sha256": "adce79d53ff098bb7a8ea1c6ffb51102dc8d2f09e5b12c16601117138af26c7f",
+    "size": 416266,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Poga “Atjauninājumi…” tagad redzama loga augšā labajā pusē (iepriekš to aizsedza ķeksītis)."
+        "Programma vairs neatver melno PowerShell/komandrindas logu.",
+        "Uz darbvirsmas tiek izveidota saīsne “Arhīva kārtotājs” ar pils ikonu (arī logam ir sava ikona)."
       ]
     }
   }
