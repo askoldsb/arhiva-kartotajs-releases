@@ -1,14 +1,14 @@
 {
   "stable": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.5.zip",
-    "sha256": "81a2f9ac2a6964229c1ec377696355eda192555e60f988ba1e401632b3e3828f",
-    "size": 420662,
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.6.zip",
+    "sha256": "5bf51fae5a9b2f375562b018dd6bf4d673f0ebc3bb2512b3c4c464abce6eb7f4",
+    "size": 421476,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Mapju kokā var atlasīt vairākas mapes ar Ctrl+klikšķi un ar labo klikšķi → “Apvienot atlasītās vienā mapē…” apvienot to saturu (piem., Rīga Altona + Rīga Altonas muiža).",
-        "Darbojas arī ar kārtībā esošām mapēm (filtrs “Visas mapes”); apvienošana saglabājas pēc jaunas skenēšanas."
+        "Labais klikšķis uz apakšmapes → “Pārcelt saturu augšējā mapē (apakšmapi likvidēt)”: faili pāriet augšējā mapē, dublikāti uz _DUBLIKATI, tukšā apakšmape tiek izdzēsta. Atsaucams.",
+        "Apakšmapju darbības (pārcelt, izņemt) strādā arī kārtībā esošām mapēm (filtrs “Visas mapes”)."
       ]
     }
   }
