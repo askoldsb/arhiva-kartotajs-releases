@@ -1,14 +1,14 @@
 {
   "stable": {
-    "version": "1.0.2",
-    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.2.zip",
-    "sha256": "adce79d53ff098bb7a8ea1c6ffb51102dc8d2f09e5b12c16601117138af26c7f",
-    "size": 416266,
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/askoldsb/arhiva-kartotajs-releases/main/releases/arhiva-kartotajs-1.0.3.zip",
+    "sha256": "79f5896cfd76e8679a28e58dc8a1e396104729d00d3985300faf643ff8d475cb",
+    "size": 418057,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Programma vairs neatver melno PowerShell/komandrindas logu.",
-        "Uz darbvirsmas tiek izveidota saīsne “Arhīva kārtotājs” ar pils ikonu (arī logam ir sava ikona)."
+        "Labais klikšķis mapju kokā: konteksta izvēlne (Atvērt mapi, Ielikt mapē…, Izpildīt šo grupu).",
+        "Apakšmapi, kas nepieder vietai (piem., Ruba-Reņģe zem Rīgas), var izņemt ar labo klikšķi → “Izņemt kā atsevišķu vietas mapi”. Atsaucams."
       ]
     }
   }
